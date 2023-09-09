@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "buy milk with some orange"
+    },
+    {
+      "id": "b81e87e1-977e-4da1-b75a-003658d1337a",
+      "text": "TEST 01"
+    },
+    {
+      "id": "ec91ed0a-ad1f-497d-be5f-11eba581029b",
+      "text": "Learn : How to work with TypeScript?"
+    }
+  ]
+}
